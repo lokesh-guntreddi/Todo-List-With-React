@@ -293,7 +293,7 @@ export const Todo = () => {
 
     return (
         <div style={{ padding: '40px', maxWidth: '600px',margin:'100px auto', backgroundColor: '#F7FAFC', borderRadius: '8px', boxShadow: '0 4px 10px rgba(0, 0, 0, 0.1)' }}>
-            <h1 style={{ textAlign: 'center', fontSize: '24px', marginBottom: '20px', color: '#1A73E8' }}>Todo List with React</h1>
+            <h1 style={{ textAlign: 'center', fontSize: '24px', marginBottom: '20px', color: '#1A73E8' }}>Todo List With React</h1>
 
             <div style={{ display: 'flex', marginBottom: '20px', alignItems: 'center' }}>
                 <input
